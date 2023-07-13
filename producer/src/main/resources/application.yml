@@ -1,0 +1,4 @@
+spring:
+  kafka:
+    bootstrap-servers: kafka:9092 #host.docker.internal:29092
+#    bootstrap-servers: 127.0.0.1:29092
